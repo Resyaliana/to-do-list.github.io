@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25);
+}
+
+.list-group-item {
+    margin-top: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
